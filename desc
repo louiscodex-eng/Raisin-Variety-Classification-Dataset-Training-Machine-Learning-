@@ -1,1 +1,1 @@
-Machine Learning
+A Raisin Variety Classification dataset was used to train a machine to study the different varieties of Raisin with an accuracy score of 86% using Google Colab, pandas, and sklearn, and cross-validation type
